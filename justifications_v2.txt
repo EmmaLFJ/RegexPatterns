@@ -1,0 +1,16 @@
+==loosheid_regeling_jongeren==
+(?P<prestr>.*)(?P<relstr>(the\s)?(youth\sunemployment|unemployment\sof\syoung\s(people|persons|women|men)))(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(combating|fighting|repress(ing)?).*(youth[\s]unemployment|unemployment[\s]of[\s]young[\s](people|persons|women|men)))(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(tackl(ing)?|fighting|handl(e|ing)|deal(ing)?).*(with[\s])?(youth[\s]unemployment|unemployment[\s]of[\s]young[\s](people|persons|women|men)))(?P<poststr>.*)
+==loosheid_regeling_ouderen==
+(?P<prestr>.*)(?P<relstr>elderly\sunemployment)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(combating|fighting|repress(ing)?).*(with[\s])?unemployment[\s]of[\s](old(er)?|elder(ly)?)[\s](peopke|persons|women|men)?)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(tackl(ing)?|fighting|handl(e|ing)|deal(ing)?).*(with[\s])?unemployment[\s]of[\s](old(er)?|elder(ly)?)[\s](peopke|persons|women|men)?)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>senior(s)?\sunemployment)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(combating|fighting|repress(ing)?).*(with[\s])?unemployment[\s]of[\s]senior(s)?)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(tackl(ing)?|fighting|handl(e|ing)|deal(ing)?).*(with[\s])?unemployment[\s]of[\s]senior(s)?)(?P<poststr>.*)
+==beursregeling_starters==
+(?P<prestr>.*)(?P<relstr>starter\s(grant|scholarship)\sscheme)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>(scholarship|grant)\sscheme\sfor\sstarters)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>scheme\sfor\sstarters\s(grant|scholarship))(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>scheme\sfor\sstarters\s(grants|scholarships))(?P<poststr>.*)

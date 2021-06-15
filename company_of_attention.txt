@@ -1,0 +1,3 @@
+==young_capital==
+(?P<prestr>.*)(?P<relstr>youngcapital)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>young\scapital)(?P<poststr>.*)

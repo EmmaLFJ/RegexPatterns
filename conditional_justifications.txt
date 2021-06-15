@@ -1,0 +1,6 @@
+==stag==
+(?P<prestr>.*)(?P<relstr>internship)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>intern)(?P<poststr>.*)
+(?P<prestr>.*)(?P<relstr>trainee)(?P<poststr>.*)
+==defensie==
+(?P<prestr>.*)(?P<relstr>defence)(?P<poststr>.*)
